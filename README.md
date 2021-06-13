@@ -4,12 +4,11 @@
 
 - 📄 my [resume](https://tuguldurs.github.io/files/resume.pdf) and academic [CV](https://tuguldurs.github.io/files/CV.pdf)
 
-- 📝 [rand☢m n☢tes](https://tuguldurs.github.io/year-archive/)
-
 - 📫 reach me at: **tuguldur.s@gmail.com**
 
+<br>
 
-# Blog posts
+#### 📝 rand☢m n☢tes
 <!-- BLOG-POST-LIST:START -->
 - [antipode](https://tuguldurs.github.io/posts/2021/06/antipode/)
 - [librosa](https://tuguldurs.github.io/posts/2021/05/librosa/)
