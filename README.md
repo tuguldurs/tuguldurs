@@ -7,3 +7,8 @@
 - 📝 [rand☢m n☢tes](https://tuguldurs.github.io/year-archive/)
 
 - 📫 reach me at: **tuguldur.s@gmail.com**
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
