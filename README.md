@@ -14,5 +14,4 @@
 - [librosa](https://tuguldurs.github.io/posts/2021/05/librosa/)
 - [shoelace](https://tuguldurs.github.io/posts/2021/05/shoelace/)
 - [talkmap and nominatim](https://tuguldurs.github.io/posts/2012/04/talkmap/)
-- [send gmail through python](https://tuguldurs.github.io/posts/2021/04/python-email/)
 <!-- BLOG-POST-LIST:END -->
